@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  nginx-ingress-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-10T14:58:08.202441+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 13f37b36a7af9bb93d2add84f0a66287e21176dbd32bdf450b8604c64cbae22d
+    home: https://github.com/joey00072/pf9-helm-charts
+    name: nginx-ingress-test
+    sources:
+    - https://github.com/joey00072/pf9-helm-charts
+    type: application
+    urls:
+    - https://github.com/joey00072/pf9-helm-charts/releases/download/nginx-ingress-test-0.1.0/nginx-ingress-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-10T14:58:08.202451+05:30"
